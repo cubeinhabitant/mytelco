@@ -1,0 +1,1 @@
+CallSid=1234&AccountSid=5678&From=%2B13195551234&To=%2B13195555566&CallStatus=ringing&ApiVersion=1&Direction=incoming&ForwardedFrom=%2B13195551212&FromCity=Hometown&FromState=IA&FromZip=55555&FromCountry=US&ToCity=Hometown&ToState=IA&ToZip=55555&ToCountry=US&DialCallStatus=completed&DialCallSid=%2B9876&DialCallDuration=120
