@@ -6,8 +6,8 @@ More information about this application can be found in my blog post:
 
 Helpful local testing:
 
-curl --verbose --data @test/resource/incomingCall.txt http://localhost:8080/twiml/incomingCall
-curl --verbose --data @test/resource/choiceSelection.txt http://localhost:8080/twiml/choiceSelection
-curl --verbose --data @test/resource/callEnd.txt http://localhost:8080/twiml/callEnd
-curl --verbose --data @test/resource/callEnd-noAnswer.txt http://localhost:8080/twiml/callEnd
-curl --verbose --data @test/resource/voicemail.txt http://localhost:8080/twiml/voicemail
+* curl --verbose --data @test/resource/incomingCall.txt http://localhost:8080/twiml/incomingCall
+* curl --verbose --data @test/resource/choiceSelection.txt http://localhost:8080/twiml/choiceSelection
+* curl --verbose --data @test/resource/callEnd.txt http://localhost:8080/twiml/callEnd
+* curl --verbose --data @test/resource/callEnd-noAnswer.txt http://localhost:8080/twiml/callEnd
+* curl --verbose --data @test/resource/voicemail.txt http://localhost:8080/twiml/voicemail
