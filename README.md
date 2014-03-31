@@ -1,6 +1,7 @@
 Mytelco is a rest service to provide call handling commands to Twilio. This
 application is an example. It was designed to run on a Google App Engine.
-More information about this application can be found in my blog post:
+An overview of this application can be found in my blog post
+"[Cutting the landline phone](http://www.jpeterson.com/2014/03/30/cutting-the-landline-phone/)".
 
 
 
